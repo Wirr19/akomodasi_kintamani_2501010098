@@ -9,5 +9,5 @@ no,butir,status,bukti,catatan
 8,Berkas mentah tidak diubah dan tercatat hash MD5,Ya,MD5 di provenance.json cocok dengan berkas di data/raw/,
 9,Tidak ada penghapusan data diam-diam; keputusan dicatat,Ya,docs/qc_log.csv,
 10,Keterbatasan data (OSM tidak lengkap) dijelaskan,Ya,docs/perbandingan_bps.csv + catatan di notebook,
-11,Kendala server (jika ada) dilaporkan,Isi manual,,Tulis di laporan
+11,Kendala server (jika ada) dilaporkan,Ya,reports/laporan_akomodasi_kintamani.pdf,Tidak ada kendala server; query berhasil pada percobaan pertama
 12,Kode/query/laporan dibuat sendiri; bantuan pihak lain diungkapkan,Isi manual,README,
