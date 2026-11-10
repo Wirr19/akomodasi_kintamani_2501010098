@@ -1,0 +1,350 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-10T08:17:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 20447233,
+      "bounds": {
+        "minlat": -8.3571424,
+        "minlon": 115.2323202,
+        "maxlat": -8.1417656,
+        "maxlon": 115.4589828
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1499372449,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372399,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372400,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372500,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372395,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372534,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372535,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372563,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372461,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372462,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372363,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372364,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372365,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372380,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372494,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372379,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372414,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372457,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372458,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372404,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372527,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372528,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372529,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372340,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1243984978,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372574,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372332,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372330,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372331,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372348,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1070847571,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372349,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372350,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372476,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372375,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372371,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372355,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372352,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372346,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372344,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372405,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1075833832,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372343,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372536,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372435,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372370,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372366,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372367,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372368,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372357,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372389,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372390,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1339457759,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372744,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1097279385,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1499372743,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "6",
+        "boundary": "administrative",
+        "check_date": "2026-04-13",
+        "description": "Kintamani adalah salah satu kecamatan di Kabupaten Bangli, Bali",
+        "name": "Kintamani",
+        "name:ar": "كينتاماني",
+        "name:arz": "كينتاماني",
+        "name:ban": "ᬓᬶᬦ᭄ᬢᬫᬦᬶ",
+        "name:bn": "কিনতামানি",
+        "name:el": "Κινταμάνι",
+        "name:fa": "کینتامانی",
+        "name:he": "קינטמאני",
+        "name:hi": "किंतमानी",
+        "name:hy": "Կինտամանի",
+        "name:ja": "キンタマニ",
+        "name:ka": "კინტამანი",
+        "name:kk": "Кинтамани",
+        "name:km": "គីនតាមី",
+        "name:kn": "ಕಿಂತಮಣಿ",
+        "name:ko": "킨타마니",
+        "name:ky": "Кинтамани",
+        "name:lo": "ກິນຕາມານີ",
+        "name:mk": "Кинтамани",
+        "name:ml": "കിന്റമണി",
+        "name:mn": "Кинтамани",
+        "name:mr": "किंतमानी",
+        "name:my": "ကင်တာမာနီ",
+        "name:or": "କିଣ୍ଟାମଣି",
+        "name:ru": "Кинтамани",
+        "name:si": "කින්ටමනි",
+        "name:sr": "Кинтамани",
+        "name:te": "కింతమణి",
+        "name:th": "คินตามณี",
+        "name:yi": "קינטאַמאַני",
+        "name:zh": "金塔马尼",
+        "name:zh-Hant": "金塔馬尼",
+        "official_name": "Kecamatan Kintamani",
+        "ref:kemendagri": "51.06.04",
+        "type": "boundary",
+        "wikidata": "Q39173",
+        "wikipedia": "id:Kintamani, Bangli"
+      }
+    }
+  ]
+}

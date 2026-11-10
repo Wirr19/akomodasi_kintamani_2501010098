@@ -1,0 +1,9 @@
+pemeriksaan,jumlah,keputusan
+duplikat osm_type+osm_id,0,tidak ada tindakan
+tanpa nama,1,dipertahankan; dilaporkan jumlahnya
+koordinat kosong,0,dipertahankan; ditandai
+koordinat di luar bbox kecamatan,0,dipertahankan; periksa manual
+kolom 'desa' kosong 100.0%,32,dipertahankan (sesuai struktur target)
+kolom 'bintang' kosong 96.9%,31,dipertahankan (sesuai struktur target)
+kolom 'jumlah_kamar' kosong 93.8%,30,dipertahankan (sesuai struktur target)
+kolom 'website' kosong 93.8%,30,dipertahankan (sesuai struktur target)

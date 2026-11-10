@@ -1,0 +1,22 @@
+{
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "query": "[out:json][timeout:90];\narea[\"name\"=\"Kintamani\"][\"boundary\"=\"administrative\"][\"admin_level\"=\"6\"]->.kec;\nnwr[\"tourism\"~\"^(hotel|guest_house|hostel|motel|apartment|chalet)$\"](area.kec);\nout center tags;",
+  "waktu_akuisisi_utc": "2026-11-10T08:18:37+00:00",
+  "osm_base_timestamp": "2026-11-10T08:16:03Z",
+  "jumlah_elemen": 32,
+  "berkas_mentah": "osm_akomodasi_kintamani_20261110_081707.json",
+  "md5": "c68676a8683208aff1f3f960be9f0764",
+  "lisensi": "ODbL 1.0 - © OpenStreetMap contributors",
+  "pengambil": {
+    "nama": "I Putu Wira Astina Rasmawan",
+    "nim": "2501010098"
+  },
+  "berkas_pendukung": [
+    {
+      "tujuan": "kotak batas kecamatan untuk cek koordinat",
+      "query": "[out:json][timeout:60];\nrel[\"name\"=\"Kintamani\"][\"boundary\"=\"administrative\"][\"admin_level\"=\"6\"];\nout bb;",
+      "berkas": "osm_batas_kintamani_20261110_081837.json",
+      "md5": "3cd67cd7f6d2af5da7022a42c22c3c49"
+    }
+  ]
+}

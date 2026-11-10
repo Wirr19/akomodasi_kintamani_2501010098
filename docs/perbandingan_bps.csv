@@ -1,0 +1,4 @@
+kategori,jenis_osm,jumlah_osm,desa_osm_terisi,objek_osm_tanpa_desa,bps_desa_dengan_sarana,rasio_osm_terhadap_batas_bawah_persen,uji_batas_bawah,tahun_bps,sumber_bps,tanggal_akses_osm
+Hotel,hotel,16,0,16,4,400.0,Lolos,2025,"Kecamatan Kintamani Dalam Angka 2026, Tabel 6.1.1 hal. 71 (PDF hal. 95); sumber data BPS Podes 2025; angka = jumlah desa dengan sarana akomodasi",2026-11-10T08:18:37+00:00
+Penginapan,guest_house+hostel+motel+apartment+chalet,16,0,16,12,133.3,Lolos,2025,"Kecamatan Kintamani Dalam Angka 2026, Tabel 6.1.1 hal. 71 (PDF hal. 95); sumber data BPS Podes 2025; angka = jumlah desa dengan sarana akomodasi",2026-11-10T08:18:37+00:00
+TOTAL,semua,32,0,32,16,200.0,Lolos,2025,"Kecamatan Kintamani Dalam Angka 2026, Tabel 6.1.1 hal. 71 (PDF hal. 95); sumber data BPS Podes 2025; angka = jumlah desa dengan sarana akomodasi",2026-11-10T08:18:37+00:00

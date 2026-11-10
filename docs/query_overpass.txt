@@ -1,0 +1,10 @@
+# Query utama (akomodasi)
+[out:json][timeout:90];
+area["name"="Kintamani"]["boundary"="administrative"]["admin_level"="6"]->.kec;
+nwr["tourism"~"^(hotel|guest_house|hostel|motel|apartment|chalet)$"](area.kec);
+out center tags;
+
+# Query pembantu (batas kecamatan)
+[out:json][timeout:60];
+rel["name"="Kintamani"]["boundary"="administrative"]["admin_level"="6"];
+out bb;

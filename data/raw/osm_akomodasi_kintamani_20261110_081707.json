@@ -1,0 +1,378 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-10T08:16:03Z",
+    "timestamp_areas_base": "2026-11-10T06:00:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1977779907,
+      "lat": -8.2831398,
+      "lon": 115.3658438,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "The Lakeview Hotel Bali",
+        "name:zh": "湖景餐厅",
+        "phone": "+62 366 52525",
+        "tourism": "hotel",
+        "website": "http://lakeviewbali.com/en/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2107226701,
+      "lat": -8.2498154,
+      "lon": 115.3984646,
+      "tags": {
+        "name": "Arlina",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2107227001,
+      "lat": -8.2501644,
+      "lon": 115.399798,
+      "tags": {
+        "name": "Toya Devasya Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4150326329,
+      "lat": -8.2814556,
+      "lon": 115.3622232,
+      "tags": {
+        "name": "Guesthouse",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297310696,
+      "lat": -8.2807476,
+      "lon": 115.3620477,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Cave Hotel",
+        "rooms": "5",
+        "stars": "2",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4401927990,
+      "lat": -8.2607538,
+      "lon": 115.3387706,
+      "tags": {
+        "name": "batur montáin view",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4863479822,
+      "lat": -8.2463133,
+      "lon": 115.3274021,
+      "tags": {
+        "name": "Miranda Homestay & Restaurant",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4905949623,
+      "lat": -8.2503247,
+      "lon": 115.3971364,
+      "tags": {
+        "name": "Lava Stone Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5065920543,
+      "lat": -8.2837958,
+      "lon": 115.3652416,
+      "tags": {
+        "name": "The Volcania Guesthouse",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5175562421,
+      "lat": -8.2220144,
+      "lon": 115.3953491,
+      "tags": {
+        "name": "Entrance to: Bunbulan Hill Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5181842726,
+      "lat": -8.2495661,
+      "lon": 115.3938369,
+      "tags": {
+        "internet_access": "yes",
+        "name": "Batur Volcano Guesthouse",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5479745921,
+      "lat": -8.2424318,
+      "lon": 115.3874714,
+      "tags": {
+        "name": "Hut",
+        "name:de": "Berghütte",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5479746121,
+      "lat": -8.2426933,
+      "lon": 115.387587,
+      "tags": {
+        "name": "Hut",
+        "name:de": "Hütte",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5526843624,
+      "lat": -8.249126,
+      "lon": 115.4009885,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Volcano 2 Guesthouse",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5668936157,
+      "lat": -8.2463334,
+      "lon": 115.3962755,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Black Lava Hostel",
+        "name:en": "Black Lava Hostel",
+        "name:fr": "Black Lava Hostel",
+        "tourism": "hostel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6451134585,
+      "lat": -8.2791389,
+      "lon": 115.3673639,
+      "tags": {
+        "name": "Caldera",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6538756786,
+      "lat": -8.2527796,
+      "lon": 115.3966072,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Triangle House",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7058054537,
+      "lat": -8.2780864,
+      "lon": 115.3791336,
+      "tags": {
+        "name": "Segara Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7187095187,
+      "lat": -8.2261727,
+      "lon": 115.4007079,
+      "tags": {
+        "name": "Volcano Hostel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205318685,
+      "lat": -8.2214097,
+      "lon": 115.4129261,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Tegal Suci Guest House",
+        "phone": "+6281338679111",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7216701986,
+      "lat": -8.2259944,
+      "lon": 115.4007602,
+      "tags": {
+        "name": "Volcano hostel - real location",
+        "phone": "+6281338578767",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7238422213,
+      "lat": -8.2189435,
+      "lon": 115.3921304,
+      "tags": {
+        "name": "Batur Panorama",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7648826286,
+      "lat": -8.2502718,
+      "lon": 115.3987344,
+      "tags": {
+        "name": "Ampik Batur Homestay",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9555392317,
+      "lat": -8.2221038,
+      "lon": 115.3981606,
+      "tags": {
+        "name": "Pondok Bali Cottage",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9769685089,
+      "lat": -8.2227355,
+      "lon": 115.3979713,
+      "tags": {
+        "name": "Bunbulan Panorama Villas",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9778735917,
+      "lat": -8.2311582,
+      "lon": 115.4105557,
+      "tags": {
+        "name": "Villa Jempana",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10983432080,
+      "lat": -8.2797767,
+      "lon": 115.3578322,
+      "tags": {
+        "addr:street": "Jalan Raya Penelokan",
+        "internet_access": "wlan",
+        "name": "Batur View Homestay",
+        "phone": "+62 812-3945-0022",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11010451459,
+      "lat": -8.2493469,
+      "lon": 115.3968715,
+      "tags": {
+        "name": "Manik Tirta Cabin's",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12873439817,
+      "lat": -8.2352849,
+      "lon": 115.4078743,
+      "tags": {
+        "air_conditioning": "yes",
+        "brand": "Pandawa Glampnig Kintamani",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61574983996081",
+        "email": "info@pandawaglamping.id",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "www.pandawaglamping.id",
+        "name": "Pandawa Glamping Kintamani",
+        "official_name": "Pandawa Glamping Kintamani",
+        "opening_hours": "24/7",
+        "payment:alipay": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+62 822 2050 9234",
+        "rooms": "5",
+        "tourism": "hotel",
+        "website": "https://www.pandawaglamping.id"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13068182153,
+      "lat": -8.2490202,
+      "lon": 115.400863,
+      "tags": {
+        "description": "Hotel with hot spring water pool",
+        "name": "Batur Sunrise Guesthouse",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13284479326,
+      "lat": -8.2503106,
+      "lon": 115.3963742,
+      "tags": {
+        "name": "Lava Bali and Hot Spring",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1181397894,
+      "center": {
+        "lat": -8.2233716,
+        "lon": 115.2545822
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "motel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+osm_type,osm_id,nama,jenis,lat,lon,desa,bintang,jumlah_kamar,website,url_osm
+node,1977779907,The Lakeview Hotel Bali,hotel,-8.2831398,115.3658438,,,,http://lakeviewbali.com/en/,https://www.openstreetmap.org/node/1977779907
+node,2107226701,Arlina,guest_house,-8.2498154,115.3984646,,,,,https://www.openstreetmap.org/node/2107226701
+node,2107227001,Toya Devasya Resort,hotel,-8.2501644,115.399798,,,,,https://www.openstreetmap.org/node/2107227001
+node,4150326329,Guesthouse,hotel,-8.2814556,115.3622232,,,,,https://www.openstreetmap.org/node/4150326329
+node,4297310696,The Cave Hotel,hotel,-8.2807476,115.3620477,,2,5,,https://www.openstreetmap.org/node/4297310696
+node,4401927990,batur montáin view,hotel,-8.2607538,115.3387706,,,,,https://www.openstreetmap.org/node/4401927990
+node,4863479822,Miranda Homestay & Restaurant,guest_house,-8.2463133,115.3274021,,,,,https://www.openstreetmap.org/node/4863479822
+node,4905949623,Lava Stone Hostel,hostel,-8.2503247,115.3971364,,,,,https://www.openstreetmap.org/node/4905949623
+node,5065920543,The Volcania Guesthouse,hotel,-8.2837958,115.3652416,,,,,https://www.openstreetmap.org/node/5065920543
+node,5175562421,Entrance to: Bunbulan Hill Hostel,hostel,-8.2220144,115.3953491,,,,,https://www.openstreetmap.org/node/5175562421
+node,5181842726,Batur Volcano Guesthouse,guest_house,-8.2495661,115.3938369,,,,,https://www.openstreetmap.org/node/5181842726
+node,5479745921,Hut,chalet,-8.2424318,115.3874714,,,,,https://www.openstreetmap.org/node/5479745921
+node,5479746121,Hut,chalet,-8.2426933,115.387587,,,,,https://www.openstreetmap.org/node/5479746121
+node,5526843624,Volcano 2 Guesthouse,hotel,-8.249126,115.4009885,,,,,https://www.openstreetmap.org/node/5526843624
+node,5668936157,Black Lava Hostel,hostel,-8.2463334,115.3962755,,,,,https://www.openstreetmap.org/node/5668936157
+node,6451134585,Caldera,hotel,-8.2791389,115.3673639,,,,,https://www.openstreetmap.org/node/6451134585
+node,6538756786,Triangle House,guest_house,-8.2527796,115.3966072,,,,,https://www.openstreetmap.org/node/6538756786
+node,7058054537,Segara Hotel,hotel,-8.2780864,115.3791336,,,,,https://www.openstreetmap.org/node/7058054537
+node,7187095187,Volcano Hostel,hotel,-8.2261727,115.4007079,,,,,https://www.openstreetmap.org/node/7187095187
+node,7205318685,Tegal Suci Guest House,guest_house,-8.2214097,115.4129261,,,,,https://www.openstreetmap.org/node/7205318685
+node,7216701986,Volcano hostel - real location,hostel,-8.2259944,115.4007602,,,,,https://www.openstreetmap.org/node/7216701986
+node,7238422213,Batur Panorama,hotel,-8.2189435,115.3921304,,,,,https://www.openstreetmap.org/node/7238422213
+node,7648826286,Ampik Batur Homestay,guest_house,-8.2502718,115.3987344,,,,,https://www.openstreetmap.org/node/7648826286
+node,9555392317,Pondok Bali Cottage,guest_house,-8.2221038,115.3981606,,,,,https://www.openstreetmap.org/node/9555392317
+node,9769685089,Bunbulan Panorama Villas,guest_house,-8.2227355,115.3979713,,,,,https://www.openstreetmap.org/node/9769685089
+node,9778735917,Villa Jempana,hotel,-8.2311582,115.4105557,,,,,https://www.openstreetmap.org/node/9778735917
+node,10983432080,Batur View Homestay,guest_house,-8.2797767,115.3578322,,,,,https://www.openstreetmap.org/node/10983432080
+node,11010451459,Manik Tirta Cabin's,hotel,-8.2493469,115.3968715,,,,,https://www.openstreetmap.org/node/11010451459
+node,12873439817,Pandawa Glamping Kintamani,hotel,-8.2352849,115.4078743,,,5,https://www.pandawaglamping.id,https://www.openstreetmap.org/node/12873439817
+node,13068182153,Batur Sunrise Guesthouse,hotel,-8.2490202,115.400863,,,,,https://www.openstreetmap.org/node/13068182153
+node,13284479326,Lava Bali and Hot Spring,hotel,-8.2503106,115.3963742,,,,,https://www.openstreetmap.org/node/13284479326
+way,1181397894,,motel,-8.2233716,115.2545822,,,,,https://www.openstreetmap.org/way/1181397894

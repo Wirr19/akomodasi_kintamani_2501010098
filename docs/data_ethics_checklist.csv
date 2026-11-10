@@ -1,0 +1,13 @@
+no,butir,status,bukti,catatan
+1,Sumber data diizinkan (OSM Overpass; BPS/Satu Data Bali),Ya,docs/provenance.json (endpoint overpass-api.de),
+2,Tidak memakai sumber terlarang (OTA/Google Maps scraping),Ya,notebook hanya memanggil overpass-api.de,
+3,Lisensi ODbL dipahami dan atribusi OpenStreetMap contributors dicantumkan,Ya,README.md + provenance.lisensi + reports/peta_sebaran.png,
+4,Tidak ada data kontak pribadi (telepon/email/media sosial),Ya,pemeriksaan CSV: tidak ada kolom/pola kontak; fungsi ratakan() tidak mengambilnya,
+5,Minimisasi data: hanya kolom yang diperlukan diambil,Ya,CSV 11 kolom sesuai docs/data_dictionary.csv,
+6,Pemakaian wajar: query 1-2 kali; ada timeout; ada retry+backoff,Ya,sel ambil_overpass; berkas mentah dipakai ulang (REFETCH=False),
+7,User-Agent teridentifikasi (nama kuliah + kontak),Ya,variabel HEADERS di sel konfigurasi,
+8,Berkas mentah tidak diubah dan tercatat hash MD5,Ya,MD5 di provenance.json cocok dengan berkas di data/raw/,
+9,Tidak ada penghapusan data diam-diam; keputusan dicatat,Ya,docs/qc_log.csv,
+10,Keterbatasan data (OSM tidak lengkap) dijelaskan,Ya,docs/perbandingan_bps.csv + catatan di notebook,
+11,Kendala server (jika ada) dilaporkan,Isi manual,,Tulis di laporan
+12,Kode/query/laporan dibuat sendiri; bantuan pihak lain diungkapkan,Isi manual,README,
